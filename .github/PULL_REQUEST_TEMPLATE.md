@@ -1,10 +1,10 @@
 **What type of PR is this?**
-- [ ] Bug Fix
-- [ ] Enhancement (new features, refinement)
-- [ ] Refactor
-- [ ] Add tests
-- [ ] Build / Development Environment
-- [ ] Documentation
+- [] Bug Fix
+- [] Enhancement (new features, refinement)
+- [] Refactor
+- [] Add tests
+- [] Build / Development Environment
+- [] Documentation
 
 **What this PR does / why we need it**:
 
